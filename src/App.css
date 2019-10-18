@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+ .th {
+   text-align: center;
+ }
+
+ .fondo{
+   background-image: url(https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjus_fDrvHkAhWDq1kKHWfLCwMQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.esan.edu.pe%2Fapuntes-empresariales%2F2018%2F05%2Fniif-la-clave-para-la-transparencia-y-comunicacion-entre-empresas%2F&psig=AOvVaw3WKuIBN7PKd6WhrZr8VEpW&ust=1569686066528899)
+ }
+
+ #inputGroupSelect01{
+   width: 20%;
+ }
